@@ -1,0 +1,25 @@
+{
+  "name": "ingr.in Portfolio",
+  "short_name": "ingr.in",
+  "description": "Portfolio, projects, skills and contact information.",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b0f19",
+  "theme_color": "#0b0f19",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": [
+    "portfolio",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
